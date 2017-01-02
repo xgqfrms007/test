@@ -5,5 +5,3 @@ class HelloMessage extends React.Component {
 }
 
 ReactDOM.render(<HelloMessage name="xgqfrms" />, document.getElementById('container'));
-
-//export HelloMessage
