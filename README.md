@@ -17,3 +17,9 @@ https://xgqfrms007.github.io/test/angular2/index.html
 <script src="src/helloworld.js"></script>
 
 ``` 
+
+
+https://xgqfrms007.github.io/test/google/chart.html
+
+
+
