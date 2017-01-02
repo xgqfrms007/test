@@ -6,4 +6,4 @@ class HelloMessage extends React.Component {
 
 ReactDOM.render(<HelloMessage name="xgqfrms" />, container);
 
-export HelloMessage
+//export HelloMessage
