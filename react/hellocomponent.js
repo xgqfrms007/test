@@ -9,4 +9,4 @@ class HelloMessage extends React.Component {
   }
 }
 
-ReactDOM.render(React.createElement(HelloMessage, { name: "xgqfrms" }), container);
+ReactDOM.render(React.createElement(HelloMessage, { name: "xgqfrms" }), document.getElementById('container'));
